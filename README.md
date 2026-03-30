@@ -61,7 +61,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
   <img width="12" />
-  <img src="https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg" height="40" alt="telegram logo"  />
+  <i class="fa-brands fa-telegram"></i>
   <img width="12" />
 <div>
 
