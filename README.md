@@ -1,4 +1,5 @@
-<h1 align="center">Why4ckr | Backend developer</h1>
+<h1 align="center">Why4ck | Backend developer</h1>
+
 
 ###
 ###
@@ -15,10 +16,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
 </div>
+
 
 ###
 ###
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
@@ -28,16 +33,40 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
 
+
 ###
 ###
 
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell"  />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare"  />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
+  <img width="12" />
 </div>
+
+
+###
+###
+
+
+<h1 align="center">Social Media</h1>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=telegram" height="40" alt="telegram logo"  />
+  <img width="12" />
+<div>
+
 
 ###
 ###
