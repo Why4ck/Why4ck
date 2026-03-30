@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo"  />
+  <img src="https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg" height="40" alt="obsidian logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
   <img width="12" />
