@@ -5,11 +5,11 @@
 ### about
 15-year-old software & network engineer. focus on building high-performance automation, network tools, and low-level software in C++ & Python.
 
-🌐 **Telegram**: [@why4ck](https://t.me/why4ck) • [Channel (RU)](https://t.me/why4ck_ru) • [Channel (EN)](https://t.me/why4ck_en)
+🌐 **Telegram**: [My account](https://t.me/why4ck) • [Channel (RU)](https://t.me/why4ck_ru) • [Channel (EN)](https://t.me/why4ck_en)
 
 ---
 
-### core skills
+### Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,cpp,c,git,sqlite,linux,docker,bash&theme=dark" alt="core skills" />
@@ -22,7 +22,7 @@
 
 ---
 
-### featured projects
+### Main Projects
 
 #### [dpi_ymret](https://github.com/why4ck/dpi_ymret)
 **Network Protocol Testing & Traffic Obfuscation Tool** — *Open Source*
