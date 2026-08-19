@@ -2,10 +2,10 @@
   <img src="head.jpg" alt="why4ck" width="100%">
 </p>
 
-### about
+### I'am
 15-year-old software & network engineer. focus on building high-performance automation, network tools, and low-level software in C++ & Python.
 
-🌐 **Telegram**: [My account](https://t.me/why4ck) • [Channel (RU)](https://t.me/why4ck_ru) • [Channel (EN)](https://t.me/why4ck_en)
+🌐 **Telegram**: [Account](https://t.me/why4ck) • [Channel (RU)](https://t.me/why4ck_ru) • [Channel (EN)](https://t.me/why4ck_en)
 
 ---
 
