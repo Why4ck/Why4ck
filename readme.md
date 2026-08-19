@@ -34,7 +34,7 @@ Tool designed for network analysis, DPI bypass, and free VPN tunneling. Obfuscat
 - Built with high-performance network logic and lightweight storage
 
 
-C++ • Python • Cybersec • Network Protocols • Xray • Sing-Box
+C++ • Python • Network Protocols • Xray • Sing-Box
 
 
 <a href="https://github.com/why4ck/dpi_ymret">
