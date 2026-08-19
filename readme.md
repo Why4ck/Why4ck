@@ -39,12 +39,3 @@ C++ • Python • SQLite • Network Protocols • Xray • Sing-Box
 <a href="https://github.com/why4ck/dpi_ymret">
   <img src="https://img.shields.io/badge/▶_View_Repository-GitHub-black?style=for-the-badge&logo=github" alt="Repository">
 </a>
-
----
-
-### github stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=why4ck&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="why4ck stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=why4ck&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="top languages" height="150" />
-</p>
