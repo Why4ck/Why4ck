@@ -5,7 +5,7 @@
 ### I'am
 15-year-old software & network engineer. focus on building high-performance automation, network tools, and low-level software in C++ & Python.
 
-🌐 **Telegram**: [Account](https://t.me/why4ck) • [Channel (RU)](https://t.me/why4ck_ru) • [Channel (EN)](https://t.me/why4ck_en)
+🌐 **Telegram**: [Account](https://t.me/whych_one) • [Channel](https://t.me/why4ck)
 
 ---
 
