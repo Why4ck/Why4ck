@@ -16,16 +16,17 @@
 </p>
 
 - **languages**: Python • C++ • C
-- **network & software eng**: Protocol Testing • Traffic Obfuscation • DPI Bypass • VPN Tunnels • Xray Core • Sing-Box
-- **automation**: aiogram • Playwright
-- **storage & env**: SQLite • Linux • Git
+- **network & software eng**: Protocol Testing • Traffic Obfuscation • DPI Bypass • VPN Tunnels • Proxy • Xray Core • Sing-Box • Vless • Hysteria2 • MaxMinddb (mmdb)
+- **automation**: aiogram • Playwright • Camoufox • Aiohttp • Pyrogram
+- **tools**: SQLite • Linux • Git • Docker • OpenAi (not vibe coder) • Loguru • YOLO
+- **cybersec**: Osint • Opsec • Hyper-v • Nmap • Kali • Linux • Maltego • Sherlock (not tg bot) • Funstat (telelog) • Bug Bounty • Google/Yandex Dorks • 
 
 ---
 
 ### Main Projects
 
 #### [dpi_ymret](https://github.com/why4ck/dpi_ymret)
-**Network Protocol Testing & Traffic Obfuscation Tool** — *Open Source*
+**Network Protocol Testing & Traffic Obfuscation Tool**
 
 Tool designed for network analysis, DPI bypass, and free VPN tunneling. Obfuscates traffic patterns and wraps routing into secure protocols.
 - Obfuscates raw network traffic to bypass modern DPI inspection
@@ -33,7 +34,7 @@ Tool designed for network analysis, DPI bypass, and free VPN tunneling. Obfuscat
 - Built with high-performance network logic and lightweight storage
 
 
-C++ • Python • SQLite • Network Protocols • Xray • Sing-Box
+C++ • Python • Cybersec • Network Protocols • Xray • Sing-Box
 
 
 <a href="https://github.com/why4ck/dpi_ymret">
